@@ -1,7 +1,7 @@
-# Arch-Dotfiles
+# My Arch Linux dotfiles
 
 
-- Window Manager: bspwm
+- Window Manager: [bspwm](https://github.com/baskerville/bspwm)
 
 - Fetch: pfetch
 
