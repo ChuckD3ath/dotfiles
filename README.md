@@ -1,5 +1,7 @@
 # My Arch Linux dotfiles
-
+<p align="center">
+  <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
+</p>
 
 - Window Manager: [bspwm](https://github.com/baskerville/bspwm)
 - Fetch: [pfetch](https://github.com/dylanaraps/pfetch)
