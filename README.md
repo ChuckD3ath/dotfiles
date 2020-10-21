@@ -16,5 +16,5 @@
 - Blurring wallpaper: [blurwal](https://gitlab.com/BVollmerhaus/blurwal/)
 - Launcher: [rofi](https://github.com/davatorium/rofi)
 - Lockscreen: [multilockscreen](https://github.com/jeffmhubbard/multilockscreen) (betterlockscren for multi monitor setup)
-- Music: [spotify](https://wiki.archlinux.org/index.php/spotify)
+- Music: [spotify](https://wiki.archlinux.org/index.php/spotify) with [spicetify-cli](https://github.com/khanhas/spicetify-cli) for the theme
 - Display Manager: none
