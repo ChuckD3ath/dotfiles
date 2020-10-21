@@ -15,6 +15,6 @@
 - Notifications: [dunst](https://github.com/dunst-project/dunst)
 - Blurring wallpaper: [blurwal](https://gitlab.com/BVollmerhaus/blurwal/)
 - Launcher: [rofi](https://github.com/davatorium/rofi)
-- Display Manager: none
 - Lockscreen: [multilockscreen](https://github.com/jeffmhubbard/multilockscreen) (betterlockscren for multi monitor setup)
 - Music: [spotify](https://wiki.archlinux.org/index.php/spotify)
+- Display Manager: none
