@@ -1,4 +1,3 @@
-# My Arch Linux dotfiles
 <p align="center">
   <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
 </p>
