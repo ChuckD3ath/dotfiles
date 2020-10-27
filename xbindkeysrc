@@ -1,0 +1,18 @@
+# thumb wheel up => previous tab
+#"xdotool key Control_L+Tab"
+
+"xte 'keydown Control_L' 'key Page_Down' 'keyup Control_L'"
+   b:6
+                                        
+# thumb wheel down => next tab       
+#"xdotool key Control_L+Shift_L+Tab"   
+
+"xte 'keydown Control_L' 'key Page_Up' 'keyup Control_L'"
+   b:7
+
+#thumb button click
+#"sleep 0.1 && xdotool key Super_L+release+Tab+release"
+#   m:0xc + release + c:23 + release
+
+"sleep 0.1 && xte 'keydown Super_L' 'key Tab' 'keyup Super_L'"
+   m:0xc + c:23
