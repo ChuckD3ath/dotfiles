@@ -2,6 +2,8 @@
   <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
 </p>
 
+## Main packages
+
 - Window Manager: [bspwm](https://github.com/baskerville/bspwm)
 - Fetch: [pfetch](https://github.com/dylanaraps/pfetch)
 - Editors: vim and [VS Code - OSS](https://github.com/microsoft/vscode/wiki/Differences-between-the-repository-and-Visual-Studio-Code)
@@ -19,3 +21,20 @@
 - Lockscreen: [multilockscreen](https://github.com/jeffmhubbard/multilockscreen)
 - Music: [spotify](https://wiki.archlinux.org/index.php/spotify) with [spicetify-cli](https://github.com/khanhas/spicetify-cli) for the theme
 - Display Manager: none
+
+## Screenshots
+
+### Clean desktop
+![Desktop-Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/emptyDesktop.png)
+
+
+### Busy desktops
+![Desktop-Preview2](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
+
+![Desktop-Preview3](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop2.png)
+
+### Lock screen
+![Lock-Screen](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockScreen.png)
+
+### Wallpaper
+![Walpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
