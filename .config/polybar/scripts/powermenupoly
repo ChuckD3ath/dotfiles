@@ -1,0 +1,34 @@
+#!/bin/bash
+
+rofi_command="rofi -theme $HOME/.config/polybar/scripts/powermenupoly.rasi"
+
+# Options
+shutdown="⏻"
+reboot=""
+lock=""
+suspend=""
+logout=""
+
+# Variable passed to rofi
+options="$lock\n$suspend\n$logout\n$reboot\n$shutdown"
+
+chosen="$(echo -e "$options" | $rofi_command -p "" -dmenu -selected-row 0)"
+case $chosen in
+    $shutdown)
+        systemctl poweroff
+        ;;
+    $reboot)
+        systemctl reboot
+        ;;
+    $lock)
+        multilockscreen -l
+        ;;
+    $suspend)
+        amixer set Master mute
+        multilockscreen -l &
+        systemctl suspend
+        ;;
+    $logout)
+        bspc quit
+        ;;
+esac
