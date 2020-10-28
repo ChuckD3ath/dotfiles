@@ -2,7 +2,7 @@
   <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
 </p>
 
-## Main packages
+## Details
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Fetch:** [pfetch](https://github.com/dylanaraps/pfetch)
@@ -19,8 +19,10 @@
 - **Blurring wallpaper:** [blurwal](https://gitlab.com/BVollmerhaus/blurwal/)
 - **Launcher:** [rofi](https://github.com/davatorium/rofi)
 - **Lockscreen:** [multilockscreen](https://github.com/jeffmhubbard/multilockscreen)
-- **Music:** [spotify](https://wiki.archlinux.org/index.php/spotify) with [spicetify-cli](https://github.com/khanhas/spicetify-cli) for the theme
 - **Display Manager:** none
+- **Music:** [spotify](https://wiki.archlinux.org/index.php/spotify) with [spicetify-cli](https://github.com/khanhas/spicetify-cli) for the theme
+- **Backup:** [timeshift](https://github.com/teejee2008/timeshift)
+
 
 ## Screenshots
 
