@@ -1,0 +1,22 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+image/jpeg=mirage.desktop
+image/png=mirage.desktop
+
+[Added Associations]
+application/x-shellscript=code-oss.desktop;
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
+text/x-csrc=code-oss.desktop;
+image/png=feh.desktop;mirage.desktop;
+text/x-chdr=code-oss.desktop;
+text/x-makefile=code-oss.desktop;
+application/octet-stream=code-oss.desktop;
+application/xml=code-oss.desktop;
+image/jpeg=mirage.desktop;
+image/gif=mirage.desktop;
+image/x-xcursor=code-oss.desktop;
