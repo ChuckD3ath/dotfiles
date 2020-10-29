@@ -9,14 +9,18 @@
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Hotkey daemon:** [sxhkd](https://github.com/baskerville/sxhkd)
+- **Shell:** [bash](https://www.gnu.org/software/bash)
 - **Fetch:** [pfetch](https://github.com/dylanaraps/pfetch)
 - **Editors:** vim and [VS Code - OSS](https://github.com/microsoft/vscode/wiki/Differences-between-the-repository-and-Visual-Studio-Code)
 - **File Manager:** [thunar](https://docs.xfce.org/xfce/thunar/start)
 - **Terminal:** [termite](https://github.com/thestinger/termite)
 - **Font:** [roboto](https://fonts.google.com/specimen/Roboto)
-- **Icon Font:** [nerd](https://www.nerdfonts.com/)
 - **Terminal Font:** [hack](https://github.com/source-foundry/Hack)
+- **Polybar/Rofi Icon Font:** [nerd](https://www.nerdfonts.com/)
 - **Colorscheme:** [gruvbox](https://github.com/morhetz/gruvbox)
+- **GTK Theme:** [abrus-gtk](https://github.com/vinceliuice/Abrus-gtk-theme)
+- **GTK Icons:** [tela](https://github.com/vinceliuice/Tela-icon-theme)
+- **Cursor theme:** [capitaine](https://github.com/keeferrourke/capitaine-cursors)
 - **Bar:** [polybar](https://github.com/polybar/polybar)
 - **Compositor:** [picom](https://github.com/yshui/picom)
 - **Notifications:** [dunst](https://github.com/dunst-project/dunst)
@@ -50,5 +54,3 @@
 
 ### Lock screen
 ![Lock-Screen](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockScreen.png)
-
-### [Walpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
