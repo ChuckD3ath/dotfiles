@@ -2,11 +2,10 @@
   <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
 </p>
 
-## Preview
+# Preview
 ![Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
 
-
-## Details
+# Details
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Hotkey daemon:** [sxhkd](https://github.com/baskerville/sxhkd)
@@ -31,13 +30,10 @@
 - **Browser:** google-chrome
 - **Screenshots:** [flameshot](https://github.com/flameshot-org/flameshot)
 
-
-
 # Screenshots
 
-### Clean desktop - [Walpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
+### Clean desktop - [Wallpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
 ![Desktop-Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/emptyDesktop.png)
-
 
 ### Busy desktops
 ![Desktop-Preview2](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
