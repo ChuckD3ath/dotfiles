@@ -39,12 +39,12 @@
 
 ### Busy desktops
 ![Desktop-Preview2](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
-
 ![Desktop-Preview3](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop2.png)
 
 ### Rofi
-![rofiPower](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiPower.png)
-
+<p align="center">
+  <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
+</p>
 ![rofiLauncher](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiLauncher.png)
 
 ### Lock screen
