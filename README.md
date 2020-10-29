@@ -2,7 +2,7 @@
   <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
 </p>
 
-# Preview
+# Preview - bspwm
 ![Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
 
 # Details
@@ -29,6 +29,8 @@
 - **Media Player:** [vlc](https://www.videolan.org/vlc/index.html)
 - **Browser:** google-chrome
 - **Screenshots:** [flameshot](https://github.com/flameshot-org/flameshot)
+- **Image Viewer:** [mirage](https://sourceforge.net/projects/mirageiv.berlios/)
+
 
 # Screenshots
 
