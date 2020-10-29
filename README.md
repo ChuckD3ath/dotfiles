@@ -43,8 +43,9 @@
 
 ### Rofi
 <p align="center">
-  <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
+  <img width="40%" src="https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiPower.png" />
 </p>
+
 ![rofiLauncher](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiLauncher.png)
 
 ### Lock screen
