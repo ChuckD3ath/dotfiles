@@ -2,9 +2,14 @@
   <img width="40%" src="https://imgur.com/ZGE5XCL.png" />
 </p>
 
+## Preview
+![Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop.png)
+
+
 ## Details
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
+- **Hotkey daemon:** [sxhkd](https://github.com/baskerville/sxhkd)
 - **Fetch:** [pfetch](https://github.com/dylanaraps/pfetch)
 - **Editors:** vim and [VS Code - OSS](https://github.com/microsoft/vscode/wiki/Differences-between-the-repository-and-Visual-Studio-Code)
 - **File Manager:** [thunar](https://docs.xfce.org/xfce/thunar/start)
@@ -20,8 +25,12 @@
 - **Launcher:** [rofi](https://github.com/davatorium/rofi)
 - **Lockscreen:** [multilockscreen](https://github.com/jeffmhubbard/multilockscreen)
 - **Display Manager:** none
-- **Music:** [spotify](https://wiki.archlinux.org/index.php/spotify) with [spicetify-cli](https://github.com/khanhas/spicetify-cli) for the theme
 - **Backup:** [timeshift](https://github.com/teejee2008/timeshift)
+- **Music:** [spotify](https://wiki.archlinux.org/index.php/spotify) with [spicetify-cli](https://github.com/khanhas/spicetify-cli) for the theme
+- **Media Player:** [vlc](https://www.videolan.org/vlc/index.html)
+- **Browser:** google-chrome
+- **Screenshots:** [flameshot](https://github.com/flameshot-org/flameshot)
+
 
 
 ## Screenshots
