@@ -33,9 +33,9 @@
 
 
 
-## Screenshots
+# Screenshots
 
-### Clean desktop
+### Clean desktop - [Walpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
 ![Desktop-Preview](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/emptyDesktop.png)
 
 
