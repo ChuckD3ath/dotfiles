@@ -43,7 +43,7 @@
 
 ### Rofi
 <p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiPower.png" />
+  <img width="80%" src="https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiPower.png" />
 </p>
 
 ![rofiLauncher](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiLauncher.png)
