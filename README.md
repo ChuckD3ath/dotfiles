@@ -42,6 +42,12 @@
 
 ![Desktop-Preview3](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/busyDesktop2.png)
 
+
+<p align="center">
+![rofiPower](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiPower.png)
+</p>
+
+
 ### Lock screen
 ![Lock-Screen](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockScreen.png)
 
