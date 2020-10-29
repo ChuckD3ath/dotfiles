@@ -47,5 +47,4 @@
 ### Lock screen
 ![Lock-Screen](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockScreen.png)
 
-### Wallpaper
-![Walpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
+### [Walpaper](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/wallpaper.png)
