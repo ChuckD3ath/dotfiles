@@ -52,5 +52,5 @@
 
 ![rofiLauncher](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/rofiLauncher.png)
 
-### Lock screen
+### Lock screen - [Image](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockImage.jpg)
 ![Lock-Screen](https://raw.githubusercontent.com/ChuckD3ath/dotfiles/main/pictures/lockScreen.png)
